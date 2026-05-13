@@ -1,8 +1,6 @@
 # xflops
 
-**Serverless Runtime with Flame for Security, Performance and Cost**
-
-XFLOPS empowers enterprises to build serverless platforms with [Flame](https://github.com/xflops/flame), delivering a secure, cost-effective, and high-performance runtime environment. Flame is engineered from decades of expertise in elastic workload management, enabling it to handle the most demanding elastic workloads with exceptional efficiency and scalability—including AI agents, Quant, and more.
+XFLOPS is an open source community dedicated to helping enterprises build AI applications. We provide tools, frameworks, and best practices—including [Flame](https://github.com/xflops/flame), a distributed engine delivering secure, cost-effective, and high-performance infrastructure for AI workloads.
 
 ## Key Features
 
